@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana, sans-serif;
+background-color: #fff9c4;
+  color: #6d4c41;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ffca28;
+  text-align: center;
+  padding: 25px;
+  color: #3e2723;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+li img {
+  width: 180px;
+  display: block;
+  margin-top: 8px;
+}
